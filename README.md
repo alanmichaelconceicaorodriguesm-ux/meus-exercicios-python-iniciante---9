@@ -1,4 +1,4 @@
-# meus-exercicios-python-iniciante---9
+# meus-exercicios-python-iniciante - 9
 São questões simples para minha pessoa ter uma ser noção do meu progresso. 
 
 # Criando a tupla com as frutas.
