@@ -2,7 +2,7 @@
 São questões simples para minha pessoa ter uma ser noção do meu progresso. 
 
 # Criando a tupla com as frutas.
-frutas = ("maçã", "banana", "laranja")
+frutas = ("maçã", "banana", "laranja", "Uva")
 
 
 # Mostrando cada fruta.
